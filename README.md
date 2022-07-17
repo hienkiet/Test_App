@@ -1,1 +1,0 @@
-Ms Angular Quiz App
